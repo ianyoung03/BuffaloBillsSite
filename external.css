@@ -1,0 +1,163 @@
+body {margin-top:0px;
+	  padding:0px;
+	  background-color:#d9d9db;
+	  background-position: 50%;
+	  background-size: 500px;}
+	  
+	  a:visited{color:#0f00e5;}
+	  a:hover{color:white;}
+	
+	
+			  
+.webtitle	
+{
+	color: #e50000;
+	font-family:helvetica;
+	font-weight:1000;
+	font-size:90px;
+	text-align:center;
+	background-color:#0f00e5;
+	padding:15px;
+	margin:0px;
+	}
+	
+.menubar1 {font-family:helvetica;
+			 font-weight:bold;
+			 background-color:#e50000;
+			 padding-top:15px;
+			 padding-left:42px;
+			 padding-right:42px;
+			 padding-bottom:15px;
+			 color:#0f00e5;
+			 font-size:30px;
+			 text-decoration:none;
+			 height;30px;
+			 line-height:2.1;
+			}
+.menubar2 {font-family:helvetica;
+			 font-weight:bold;
+			 background-color:#e50000;
+			 padding-top:15px;
+			 padding-left:6px;
+			 padding-right:7px;
+			 padding-bottom:15px;
+			 color:#0f00e5;
+			 font-size:30px;
+			 text-decoration:none;
+			 height;30px;
+			 line-height:2.1;
+			}
+.menubar3 {font-family:helvetica;
+			 font-weight:bold;
+			 background-color:#e50000;
+			 padding-top:15px;
+			 padding-left:5px;
+			 padding-right:5px;
+			 padding-bottom:15px;
+			 color:#0f00e5;
+			 font-size:30px;
+			 text-decoration:none;
+			 height;30px;
+			 line-height:2.1;
+			}
+.menubar4	{font-family:helvetica;
+			 font-weight:bold;
+			 background-color:#e50000;
+			 padding-top:15px;
+			 padding-left:97px;
+			 padding-right:97px;
+			 padding-bottom:15px;
+			 color:#0f00e5;
+			 font-size:30px;
+			 text-decoration:none;
+			 height;30px;
+			 line-height:2.1;
+			}
+
+
+.buffalobillhelmet 
+		{position:absolute;
+		top:23px;
+		left:65px;
+		height:110px}
+.buffalobillhelmet2	
+		{position:absolute;
+		top:23px;
+		left:1075px;
+		height:110px;}
+
+td {border: 4px solid #0f00e5;
+	color:#e50000;
+	font-weight:bold;
+	font-size:20px;
+	font-family:helvetica;
+	text-align:center;}
+th {border: 4px solid #0f00e5;
+	color:#e50000;
+	font-weight:bold;
+	font-size:30px;
+	font-family:helvetica;
+	}
+h1 {font-family:helvetica;
+			font-size:50px;
+			font-weight:bold;
+			text-align:center;
+			color:#0f00e5;
+			border-style:solid;
+			border-width:5px;
+			border-color:#e50000;}
+
+h2 {font-family:helvetica;
+			font-size:30px;
+			font-weight:bold;
+			color:#0f00e5;}
+p		{font-family:helvetica;
+			font-size:20px;
+			color:#0f00e5;}
+.news {font-family:helvetica;
+			font-size:50px;
+			font-weight:bold;
+			position:absolute;
+			left:100px;
+			top:200px;}
+.highlights {font-family:helvetica;
+			font-size:50px;
+			font-weight:bold;
+			position:absolute;
+			left:800px;
+			top:200px;}
+.video1 {position:absolute;
+		top:325px;
+		left:750px;}
+.video2 {position:absolute;
+		top:600px;
+		left:750px;}
+.video3 {position:absolute;
+		top:875px;
+		left:750px;}
+.billsmap {position:absolute;
+			top:650px;
+			left:300px;
+			height:500px;}
+.pricing {position:absolute;
+			top:1150px;
+			
+			}	
+ul 		{font-family:helvetica;
+			font-size:25px;
+			color:#0f00e5;
+			border-style:solid;
+			border-width:5px;
+			border-color:#e50000;}	
+img {border-style:solid;
+	 border-width:4px;
+	 border-color:#e50000}
+
+.contact {background-color:#e50000;
+		  padding:15px;}
+
+	
+	
+
+
+
